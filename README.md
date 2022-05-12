@@ -1,2 +1,2 @@
 # Smartczajnik
-hardware projekt of smart kettle 
+hardware project of smart kettle 
